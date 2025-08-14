@@ -18,7 +18,7 @@ body {
 
 #encabezado {
     height: 250px;
-    background-image: url("img/header.jpg");
+    background-image: url("header.jpg");
 }
 
 #botonera {
@@ -159,3 +159,4 @@ P {
 	box-shadow: 6px 6px 11px 9px rgba(255, 0, 0, 0.3);
 	transform: scale(1.1);
 }
+
